@@ -1,0 +1,2 @@
+# Bariatric_Surgery
+The goal of this research study is to develop effective and practical post-surgical guidelines, based on clinical data, in order to determine potential predictors of surgical success.  With this information, clinicians and patients can work together to minimize long-term weight regain post-surgery. To achieve this goal, we applied various machine learning (ML) algorithms to model our dataset and provide a list of critical features to target in order to have more successful long-term weight loss outcomes.
